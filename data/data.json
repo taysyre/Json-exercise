@@ -1,0 +1,36 @@
+{  
+    "Laptop": [
+      {
+        
+        "id": 1,
+        "Brand": "Lenovo",
+        "serialNumber": "0212105400080",
+        "userName": "userLen"
+      },
+      {
+        "id": 2,
+        "Brand": "DELL",
+        "serialNumber": "0520015839749",
+        "userName": "userDEL"
+        
+      },
+      {
+        "id": 3,
+        "Brand": "Apple",
+        "serialNumber": "0716105412081",
+        "userName": "userApp"
+      },
+      {
+      "id": 4,
+      "Brand": "Acer",
+      "serialNumber": "0762145434580",
+      "userName": "userAce"
+      },
+      {
+        "id": 5,
+        "Brand": "LOST BOY",
+        "serialNumber": "0215140034590",
+        "userName": "userLOST"
+        }
+    ]
+}
